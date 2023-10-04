@@ -22,4 +22,3 @@
 ## Используемые библиотеки
 - pandas
 - sklearn
-- seaborn
