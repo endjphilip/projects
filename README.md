@@ -7,5 +7,5 @@
 | [Аренда самокатов GoFast](https://github.com/endjphilip/projects/tree/main/GoFast) | Статистический анализ данных и проверка некоторых гипотез, которые могут помочь бизнесу вырасти. | pandas, SciPy, matplotlib |
 | [Игровой интернет магазин](https://github.com/endjphilip/projects/tree/main/Stream4ik) * | Работа с данными, которая поможет выявить определяющие успешность игры закономерности. | pandas, SciPy, matplotlib, seaborn
 | [Оператор связи "Мегалайн"](https://github.com/endjphilip/projects/tree/main/Megaline) | Нужно построить модель для задачи классификации, которая выберет подходящий тариф. | pandas, sklearn |
-| [Банк "Бета-Банк"](https://github.com/endjphilip/projects/tree/main/Beta-bank) | Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет | pandas, matplotlib, sklearn, numpy |
-| [Добывающая компания «ГлавРосГосНефть»](https://github.com/endjphilip/projects/tree/main/GlavRosGosNeft) *| Построение модели машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль | pandas, matplotlib, sklearn, numpy |  
+| [Банк "Бета-Банк"](https://github.com/endjphilip/projects/tree/main/Beta-bank) | Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. | pandas, matplotlib, sklearn, numpy |
+| [Добывающая компания «ГлавРосГосНефть»](https://github.com/endjphilip/projects/tree/main/GlavRosGosNeft) *| Построение модели машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. | pandas, matplotlib, sklearn, numpy |  
