@@ -9,3 +9,4 @@
 | [Оператор связи "Мегалайн"](https://github.com/endjphilip/projects/tree/main/Megaline) | Нужно построить модель для задачи классификации, которая выберет подходящий тариф. | pandas, sklearn |
 | [Банк "Бета-Банк"](https://github.com/endjphilip/projects/tree/main/Beta-bank) | Нужно спрогнозировать, уйдёт клиент из банка в ближайшее время или нет. | pandas, matplotlib, sklearn, numpy |
 | [Добывающая компания «ГлавРосГосНефть»](https://github.com/endjphilip/projects/tree/main/GlavRosGosNeft) | Построение модели машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль. | pandas, matplotlib, sklearn, numpy |  
+| [Группа компаний «Zyfra»](https://github.com/endjphilip/projects/tree/main/Zyfra) * | Подготовка прототипа модели машинного обучения, которая должна предсказать коэффициент восстановления золота из золотосодержащей руды. | pandas, matplotlib, sklearn, numpy |
