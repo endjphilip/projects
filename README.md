@@ -14,3 +14,4 @@
 | [Сервис по продаже автомобилей с пробегом «Не бит, не крашен»](https://github.com/endjphilip/projects/tree/main/car_sales) * | Построение модели, которая умеет определять рыночную стоимость автомобиля. | pandas, matplotlib, sklearn, numpy, lightgbm |
 | [Интернет-магазин «Викишоп с использованием BERT»](https://github.com/endjphilip/projects/tree/main/Wiki-shop) * | Обучение модели классифицировать комментарии на позитивные и негативные. | pandas, numpy, sklearn, transformers, torch |
 | [Сетевой супермаркет «Хлеб-Соль» с использованием ResNet50](https://github.com/endjphilip/projects/tree/main/Bread%26Salt) | Построение модели, которая по фотографии определит приблизительный возраст человека | pandas, keras, matplotlib |
+| [Металлургический комбинат ООО «Так закаляем сталь»](https://github.com/endjphilip/projects/tree/main/Prom) * | Построение модели, которая предскажет температуру стали. | pandas, numpy, matplotlib, seaborn, sklearn, lightgbm |
