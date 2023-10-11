@@ -32,3 +32,4 @@ Price — цена (евро)
 - matplotlib
 - sklearn
 - numpy
+- lightgbm
